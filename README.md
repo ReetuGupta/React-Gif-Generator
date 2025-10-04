@@ -45,13 +45,17 @@ src/\
 - **Custom Hooks**
 - **GIPHY API**
 
+## 🌐 Live Demo
+
+[👉 View Deployed Site](https://random-gif-generator-reetu.netlify.app/)
+
 
 ## ⚡ Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-gifs-generator.git
-   cd random-gifs-generator
+   git clone https://github.com/ReetuGupta/React-Gif-Generator.git
+   cd React-Gif-Generator
    ```
 
 2. Install dependencies:
